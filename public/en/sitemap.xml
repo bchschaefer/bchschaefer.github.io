@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://bchschaefer.github.io/en/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/"
+                href="https://bchschaefer.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://bchschaefer.github.io/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://bchschaefer.github.io/en/about/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/about/"
+                href="https://bchschaefer.github.io/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/about/"
+                href="https://bchschaefer.github.io/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://bchschaefer.github.io/en/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/posts/"
+                href="https://bchschaefer.github.io/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://bchschaefer.github.io/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://bchschaefer.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/categories/"
+                href="https://bchschaefer.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/categories/"
+                href="https://bchschaefer.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/index/</loc>
+    <loc>https://bchschaefer.github.io/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/tags/index/"
+                href="https://bchschaefer.github.io/de/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/index/"
+                href="https://bchschaefer.github.io/en/tags/index/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/series/</loc>
+    <loc>https://bchschaefer.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/series/"
+                href="https://bchschaefer.github.io/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/series/"
+                href="https://bchschaefer.github.io/en/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://bchschaefer.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/tags/"
+                href="https://bchschaefer.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://bchschaefer.github.io/en/tags/"
                 />
   </url>
 </urlset>
