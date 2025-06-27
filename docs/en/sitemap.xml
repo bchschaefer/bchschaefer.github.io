@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bchschaefer.github.io/en/</loc>
+    <loc>https://schaefer-bjoern.de/en/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://bchschaefer.github.io/de/"
+                href="https://schaefer-bjoern.de/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://bchschaefer.github.io/en/"
+                href="https://schaefer-bjoern.de/en/"
                 />
   </url><url>
-    <loc>https://bchschaefer.github.io/en/about/</loc>
+    <loc>https://schaefer-bjoern.de/en/about/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://bchschaefer.github.io/de/about/"
+                href="https://schaefer-bjoern.de/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://bchschaefer.github.io/en/about/"
+                href="https://schaefer-bjoern.de/en/about/"
                 />
   </url><url>
-    <loc>https://bchschaefer.github.io/en/posts/</loc>
+    <loc>https://schaefer-bjoern.de/en/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://bchschaefer.github.io/de/posts/"
+                href="https://schaefer-bjoern.de/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://bchschaefer.github.io/en/posts/"
+                href="https://schaefer-bjoern.de/en/posts/"
                 />
   </url><url>
-    <loc>https://bchschaefer.github.io/en/categories/</loc>
+    <loc>https://schaefer-bjoern.de/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://bchschaefer.github.io/de/categories/"
+                href="https://schaefer-bjoern.de/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://bchschaefer.github.io/en/categories/"
+                href="https://schaefer-bjoern.de/en/categories/"
                 />
   </url><url>
-    <loc>https://bchschaefer.github.io/en/tags/index/</loc>
+    <loc>https://schaefer-bjoern.de/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://bchschaefer.github.io/de/tags/index/"
+                href="https://schaefer-bjoern.de/de/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://bchschaefer.github.io/en/tags/index/"
+                href="https://schaefer-bjoern.de/en/tags/index/"
                 />
   </url><url>
-    <loc>https://bchschaefer.github.io/en/series/</loc>
+    <loc>https://schaefer-bjoern.de/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://bchschaefer.github.io/de/series/"
+                href="https://schaefer-bjoern.de/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://bchschaefer.github.io/en/series/"
+                href="https://schaefer-bjoern.de/en/series/"
                 />
   </url><url>
-    <loc>https://bchschaefer.github.io/en/tags/</loc>
+    <loc>https://schaefer-bjoern.de/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://bchschaefer.github.io/de/tags/"
+                href="https://schaefer-bjoern.de/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://bchschaefer.github.io/en/tags/"
+                href="https://schaefer-bjoern.de/en/tags/"
                 />
   </url>
 </urlset>
