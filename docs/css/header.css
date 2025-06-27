@@ -17,3 +17,38 @@
     content: "./";
 }
 
+.lang_nav {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.lang_nav.inactive, .lang_nav.inactive a:link, .lang_nav.inactive a:visited {
+    color: var(--muted);
+}
+
+.lang_nav.inactive a:active, .lang_nav.inactive a:hover {
+    color: var(--hover);
+}
+
+.lang_nav::before {
+    content: "[";
+}
+
+.lang_nav::after {
+    content: "]";
+}
+
+.lang_nav.inactive::before {
+    content: "";
+}
+
+.lang_nav.inactive::after {
+    content: "";
+}
+
+.lang_nav_box {
+    margin-left: auto; 
+    margin-right: 0;
+    padding: 0;
+    border: none;
+}
