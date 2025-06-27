@@ -12,6 +12,12 @@
     content: none;
 }
 
+.about__description {
+    display: inline;
+    vertical-align: top;
+    font-size: 12px
+}
+
 /* Social media links */
 .aside__social-links {
     padding: 0;
